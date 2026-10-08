@@ -4,6 +4,10 @@ Source code accompanying the manuscript "VHDL Implementation of a Causal QRS
 Detector and Heart-Rate Classifier on a Cyclone V FPGA: Inter-Patient
 Validation on MIT-BIH", submitted to IEEE Latin America Transactions.
 
+Submission ID: 11130, IEEE Latin America Transactions.
+
+Authors: Pedro Martin Quiroz Tapia (corresponding author, ORCID 0000-0003-3846-1606), Marcos Pedro Carpio Meza (ORCID 0009-0006-2928-1653) and Jesús Antonio Calderon Sinti (ORCID 0009-0009-2533-8183).
+
 Escuela de Ingeniería Mecatrónica, Universidad Tecnológica del Perú (UTP),
 Lima, Perú.
 
