@@ -17,7 +17,7 @@ or tachycardia from the instantaneous heart rate. It is written in native
 VHDL, targets the Intel Cyclone V 5CSEMA5F31C6 of the DE1-SoC board, and is
 validated by RTL simulation against the complete MIT-BIH Arrhythmia Database.
 
-https://gitdiagram.com/slyhark-dev/pvpgn-rehost
+https://gitdiagram.com/slyhark-dev/qrs-detector-cyclone-v
 
 ## Contents
 
