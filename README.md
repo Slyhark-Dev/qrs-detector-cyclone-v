@@ -1,9 +1,12 @@
-# Causal QRS detector and heart-rate classifier on a Cyclone V FPGA
+<h1 align="center">Causal QRS detector and heart-rate classifier on a Cyclone V FPGA</h1>
 
-![MATLAB](https://img.shields.io/badge/powered%20by-MATLAB-0076A8)
-![Quartus](https://img.shields.io/badge/synthesis-Quartus%20Prime-0071C5)
-![VHDL](https://img.shields.io/badge/HDL-VHDL-lightgrey)
-![FPGA](https://img.shields.io/badge/target-Cyclone%20V-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/powered%20by-MATLAB-0076A8" alt="MATLAB">
+  <img src="https://img.shields.io/badge/synthesis-Quartus%20Prime-0071C5" alt="Quartus">
+  <img src="https://img.shields.io/badge/HDL-VHDL-lightgrey" alt="VHDL">
+  <img src="https://img.shields.io/badge/target-Cyclone%20V-orange" alt="FPGA">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT">
+</p>
 
 <p align="center">
   <a href="https://www.zdoc.app/de/Slyhark-Dev/qrs-detector-cyclone-v">Deutsch</a> |
