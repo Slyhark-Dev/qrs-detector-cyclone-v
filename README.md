@@ -8,17 +8,6 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT">
 </p>
 
-<p align="center">
-  <a href="https://www.zdoc.app/de/Slyhark-Dev/qrs-detector-cyclone-v">Deutsch</a> |
-  <a href="https://www.zdoc.app/es/Slyhark-Dev/qrs-detector-cyclone-v">Español</a> |
-  <a href="https://www.zdoc.app/fr/Slyhark-Dev/qrs-detector-cyclone-v">français</a> |
-  <a href="https://www.zdoc.app/ja/Slyhark-Dev/qrs-detector-cyclone-v">日本語</a> |
-  <a href="https://www.zdoc.app/ko/Slyhark-Dev/qrs-detector-cyclone-v">한국어</a> |
-  <a href="https://www.zdoc.app/pt/Slyhark-Dev/qrs-detector-cyclone-v">Português</a> |
-  <a href="https://www.zdoc.app/ru/Slyhark-Dev/qrs-detector-cyclone-v">Русский</a> |
-  <a href="https://www.zdoc.app/zh/Slyhark-Dev/qrs-detector-cyclone-v">中文</a>
-</p>
-
 Source code accompanying the manuscript "VHDL Implementation of a Causal QRS
 Detector and Heart-Rate Classifier on a Cyclone V FPGA: Inter-Patient
 Validation on MIT-BIH", submitted to IEEE Latin America Transactions.
