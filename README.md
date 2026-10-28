@@ -1,5 +1,10 @@
 # Causal QRS detector and heart-rate classifier on a Cyclone V FPGA
 
+![MATLAB](https://img.shields.io/badge/powered%20by-MATLAB-0076A8)
+![Quartus](https://img.shields.io/badge/synthesis-Quartus%20Prime-0071C5)
+![VHDL](https://img.shields.io/badge/HDL-VHDL-lightgrey)
+![FPGA](https://img.shields.io/badge/target-Cyclone%20V-orange)
+
 Source code accompanying the manuscript "VHDL Implementation of a Causal QRS
 Detector and Heart-Rate Classifier on a Cyclone V FPGA: Inter-Patient
 Validation on MIT-BIH", submitted to IEEE Latin America Transactions.
