@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/powered%20by-MATLAB-F28C28" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Quartus-Prime-87CEEB?style=flat" alt="Quartus">
+  <img src="https://img.shields.io/badge/Intel-Quartus-87CEEB?logo=intel&logoColor=white" alt="Quartus">
   <img src="https://img.shields.io/badge/HDL-VHDL-C026D3" alt="VHDL">
   <img src="https://img.shields.io/badge/target-Cyclone%20V-E53935" alt="FPGA">
   <img src="https://img.shields.io/badge/license-MIT-2E8B57" alt="MIT">
