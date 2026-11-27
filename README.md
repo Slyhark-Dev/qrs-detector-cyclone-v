@@ -1,11 +1,11 @@
 <h1 align="center">Causal QRS detector and heart-rate classifier on a Cyclone V FPGA</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/powered%20by-MATLAB-0076A8" alt="MATLAB">
-  <img src="https://img.shields.io/badge/synthesis-Quartus%20Prime-0071C5" alt="Quartus">
-  <img src="https://img.shields.io/badge/HDL-VHDL-lightgrey" alt="VHDL">
-  <img src="https://img.shields.io/badge/target-Cyclone%20V-orange" alt="FPGA">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT">
+  <img src="https://img.shields.io/badge/powered%20by-MATLAB-F28C28" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Quartus-Prime-87CEEB?style=flat" alt="Quartus">
+  <img src="https://img.shields.io/badge/HDL-VHDL-C026D3" alt="VHDL">
+  <img src="https://img.shields.io/badge/target-Cyclone%20V-E53935" alt="FPGA">
+  <img src="https://img.shields.io/badge/license-MIT-2E8B57" alt="MIT">
 </p>
 
 Source code accompanying the manuscript "VHDL Implementation of a Causal QRS
